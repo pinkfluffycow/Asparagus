@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/dashboard"
+        android:icon="@drawable/ic_help"
+        android:title="Dashboard" />
+
+<item
+    android:id="@+id/request"
+    android:title="Request"
+    android:icon="@drawable/ic_request"/>
+
+<item
+    android:id="@+id/volunteer"
+    android:title="Volunteer"
+    android:icon="@drawable/ic_volunteer"/>
+
+<item
+    android:id="@+id/account"
+    android:title="Account"
+    android:icon="@drawable/ic_account"/>
+</menu>
